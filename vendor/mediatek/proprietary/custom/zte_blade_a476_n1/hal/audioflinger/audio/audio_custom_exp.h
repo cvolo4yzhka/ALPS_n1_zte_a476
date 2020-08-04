@@ -145,7 +145,7 @@ typedef enum
 #ifdef PHONE_MIC_MODE
 #undef PHONE_MIC_MODE
 #endif
-#define PHONE_MIC_MODE (6)
+#define PHONE_MIC_MODE (1)
 #ifdef HEADSET_MIC_MODE
 #undef HEADSET_MIC_MODE
 #endif
